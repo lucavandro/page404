@@ -51,5 +51,16 @@ img{
 }
 
 /* PC */
-@media (min-width: 992px) {  }
+@media (min-width: 1200px) { 
+    img{
+        height: 60vh;
+    }
+
+    h1{
+        font-size: 4em;
+    }
+    h2{
+        font-size: 1.7em;
+    }
+}
 
